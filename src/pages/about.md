@@ -30,12 +30,8 @@ seo:
       relativeUrl: true
 template: page
 ---
-**Quanshu Li** is a Data Scientist located in Brisbane, Australia. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Quanshu Li** is a Data Scientist located in Brisbane, Australia. He has done Finite Element modelling of unconventional reservoirs, mining, and fault movement in his PhD and Master. After graduating from The University of Queensland as a PhD, he worked as a construction manager in Melbourne. However, he is interested in Data Science and has several years of experience of Python programming, so he is pursuing a career as a data scientist. He also has also done some learning in Javascript, React etc.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+He will update his recent works on this website.
 
 *Thank You for reading!*
