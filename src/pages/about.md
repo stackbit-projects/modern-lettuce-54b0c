@@ -30,7 +30,11 @@ seo:
       relativeUrl: true
 template: page
 ---
-**Quanshu Li** is a Data Scientist located in Brisbane, Australia. He has done Finite Element modelling of unconventional reservoirs, mining, and fault movement in his PhD and Master. After graduating from The University of Queensland as a PhD, he worked as a construction manager in Melbourne. However, he is interested in Data Science and has several years of experience of Python programming, so he is pursuing a career as a data scientist. He also has also done some learning in Javascript, React etc.
+**Quanshu Li** is a Data Scientist located in Brisbane, Australia. 
+
+Before become a data scientist, he has done PhD and Master degrees in Finite Element modelling of unconventional reservoirs, mining, and fault movement in his PhD and Master, then he worked as a construction manager in Melbourne. 
+
+However, he is interested in Data Science and has several years of experience of Python programming from his years of research works. He also has learnt Javascript, React etc.
 
 He will update his recent works on this website.
 
