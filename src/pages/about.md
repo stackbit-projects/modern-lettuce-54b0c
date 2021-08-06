@@ -30,11 +30,11 @@ seo:
       relativeUrl: true
 template: page
 ---
-**Quanshu Li** is a Data Scientist located in Brisbane, Australia. 
+**Quanshu Li** is a Python developer located in Brisbane, Australia.
 
-Before become a data scientist, he has done PhD and Master degrees in Finite Element modelling of unconventional reservoirs, mining, and fault movement in his PhD and Master, then he worked as a construction manager in Melbourne. 
+Before become a developer, he has done PhD and Master degrees in Finite Element modelling of unconventional reservoirs, mining, and fault movement in his PhD and Master, then he worked as a construction manager in Melbourne.
 
-However, he is interested in Data Science and has several years of experience of Python programming from his years of research works. He also has learnt Javascript, React etc.
+However, he is interested in Data Science and Web Development mainly with Python. He also has learnt Javascript, React etc.
 
 He will update his recent works on this website.
 
