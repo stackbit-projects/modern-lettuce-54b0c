@@ -45,6 +45,14 @@ thumb_img_path: images/1.jpg
 ---
 ![](images/homepage.PNG)
 
+## It has the following functions:
+
+*   Leave comments
+
+*   Search content with postgresql
+
+*   Subscribe feed
+
 
 
 ![](images/rainy-olive.PNG)
@@ -54,4 +62,3 @@ thumb_img_path: images/1.jpg
 
 
 ![](images/comment.PNG)
-
