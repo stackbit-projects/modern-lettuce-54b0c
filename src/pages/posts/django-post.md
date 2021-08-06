@@ -1,6 +1,6 @@
 ---
 title: Django Post
-subtitle: lorem-ipsum
+subtitle: This is a post project created by django.
 date: '2019-04-09'
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 excerpt: >-
