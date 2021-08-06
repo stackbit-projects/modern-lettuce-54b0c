@@ -42,6 +42,7 @@ seo:
       relativeUrl: true
 template: post
 thumb_img_path: images/1.jpg
+content_img_path: images/6.jpg
 ---
 ![](images/homepage.PNG)
 
