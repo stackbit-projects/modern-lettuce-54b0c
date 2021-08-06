@@ -1,7 +1,7 @@
 ---
 title: Django Post
 subtitle: This is a post project created by django.
-date: '2019-04-09'
+date: '2021-08-06'
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 excerpt: >-
   Hiking is sometimes referred to as such. This specifically refers to difficult
