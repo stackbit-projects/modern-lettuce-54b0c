@@ -41,7 +41,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 template: post
-thumb_img_path: images/1.jpg
+thumb_img_path: images/important-daffodil.PNG
 content_img_path: images/1.jpg
 ---
 ![](images/homepage.PNG)
