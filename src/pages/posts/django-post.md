@@ -56,10 +56,3 @@ content_img_path: images/1.jpg
 
 
 
-![](images/rainy-olive.PNG)
-
-
-
-
-
-![](images/comment.PNG)
