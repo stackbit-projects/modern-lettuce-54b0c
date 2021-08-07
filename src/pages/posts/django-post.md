@@ -41,7 +41,7 @@ template: post
 thumb_img_path: images/important-daffodil.PNG
 content_img_path: images/1.jpg
 ---
-![](images/homepage.PNG)
+
 
 ## It has the following functions:
 
@@ -51,5 +51,4 @@ content_img_path: images/1.jpg
 
 *   Subscribe feed
 
-
-
+![](images/festive-squid.PNG)
