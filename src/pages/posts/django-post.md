@@ -41,8 +41,6 @@ template: post
 thumb_img_path: images/important-daffodil.PNG
 content_img_path: images/1.jpg
 ---
-
-
 ## It has the following functions:
 
 *   Leave comments
@@ -51,4 +49,5 @@ content_img_path: images/1.jpg
 
 *   Subscribe feed
 
-![](images/festive-squid.PNG)
+![](images/great-basil.PNG)
+
